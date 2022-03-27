@@ -1,0 +1,9 @@
+tensorflow-gpu (2.8.0)
+numpy
+pandas
+speech_recognition
+librosa
+playsound
+sounddevice
+matplotlib
+fuzzywuzzy
