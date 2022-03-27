@@ -13,4 +13,3 @@ librosa
 playsound
 sounddevice
 matplotlib
-fuzzywuzzy
