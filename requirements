@@ -1,7 +1,14 @@
+For AutoFoo :
+
+pandas (to manupilate csv files and dataframes)
+speechrecognition (to listen to your request)
+fuzzywuzzy (fuzzy string matching algorithms)
+mutagen (for reading metadata from your .mp3 or .flac files)
+
+
+For the model :
+
 tensorflow-gpu (2.8.0)
-numpy
-pandas
-speech_recognition
 librosa
 playsound
 sounddevice
